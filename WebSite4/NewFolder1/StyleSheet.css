@@ -1,0 +1,22 @@
+﻿
+
+body {
+    background-color: #D6EAF8;
+}
+table {
+    width: 100%;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h3 {
+    color: darkblue;
+}
+
+a:link {
+    color: darkblue;
+    background-color: transparent;    
+}
+
